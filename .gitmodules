@@ -1,0 +1,12 @@
+[submodule "textureimport"]
+	path = textureimport
+	url = https://github.com/amc522/textureimport.git
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "images/openexr-images"]
+	path = images/openexr-images
+	url = https://github.com/AcademySoftwareFoundation/openexr-images.git
+[submodule "images/directxtexmedia"]
+	path = images/directxtexmedia
+	url = https://github.com/walbourn/directxtexmedia.git
